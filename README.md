@@ -16,8 +16,8 @@ Data Analyst Intern - E.ON next UK (June 2021 - September 2021)
 - Developing a Study Area Booking System for University of Birmingham - 3rd Year
 
 ### Data Science Projects
-- Building a predictive model for Housing Prices
-- Analysis of the Gender-Age Relationship Across Different Marathon Distances
+- Building a predictive model for Housing Prices - [See the project!](https://github.com/hadibeitlefteh/portfolio/tree/9778a5d57a350582a309abf686035db88b0aacf6/House%20Price%20Prediction)
+- Analysis of the Gender-Age Relationship Across Different Marathon Distances - [See the project!](https://github.com/hadibeitlefteh/portfolio/tree/9778a5d57a350582a309abf686035db88b0aacf6/Analysis%20of%20the%20Gender-Age%20Relationship%20Across%20Different%20Marathon%20Distances)
 
 ### Software Development Skills
 - Programming Languages: Python (Django), SQL, Dart (Flutter) and more
