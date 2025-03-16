@@ -26,21 +26,21 @@ efficiency.
 - Analysis of the Gender-Age Relationship Across Different Marathon Distances
 
 ### Software Development Skills
-✅ Programming Languages: Python, SQL/n
-✅ Software Development: Full-stack development, database management
-✅ Web Development: Backend and API development
-✅ Project Development: Building functional applications (e.g., Study Area Booking System, Social Calendar App)
-✅ Version Control: Git, GitHub
-✅ Automation & Scripting: Writing scripts to streamline development processes
-✅ Tools & Technologies: Django, Flutter, PyCharm, Android Studio, VS Code and more
+- Programming Languages: Python (Django), SQL, Dart (Flutter) and more
+- Software Development: Full-stack development, database management
+- Web Development: Backend and API development
+- Project Development: Building functional applications (e.g., Study Area Booking System, Social Calendar App)
+- Version Control: Git, GitHub
+- Automation & Scripting: Writing scripts to streamline development processes
+- Tools & Technologies: Django, Flutter, PyCharm, Android Studio, VS Code and more
 
 ### Data Science Skills
-✅ Data Manipulation & Processing: Pandas, NumPy, SQL
-✅ Exploratory Data Analysis (EDA): Identifying key insights from datasets
-✅ Machine Learning: Regression, Classification, Clustering (Scikit-Learn)
-✅ Data Visualization: Matplotlib, Seaborn, Power BI
-✅ Predictive Modeling: Building forecasting models
-✅ Data Cleaning & Transformation: Ensuring data accuracy and consistency
-✅ Dashboard & Reporting: Creating visual reports for stakeholders
+- Data Manipulation & Processing: Pandas, NumPy, SQL
+- Exploratory Data Analysis (EDA): Identifying key insights from datasets
+- Machine Learning: Regression, Classification, Clustering (Scikit-Learn)
+- Data Visualization: Matplotlib, Seaborn, Power BI
+- Predictive Modeling: Building forecasting models
+- Data Cleaning & Transformation: Ensuring data accuracy and consistency
+- Dashboard & Reporting: Creating visual reports for stakeholders
 
 
