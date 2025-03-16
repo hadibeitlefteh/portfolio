@@ -26,7 +26,7 @@ efficiency.
 - Analysis of the Gender-Age Relationship Across Different Marathon Distances
 
 ### Software Development Skills
-✅ Programming Languages: Python, SQL
+✅ Programming Languages: Python, SQL/n
 ✅ Software Development: Full-stack development, database management
 ✅ Web Development: Backend and API development
 ✅ Project Development: Building functional applications (e.g., Study Area Booking System, Social Calendar App)
